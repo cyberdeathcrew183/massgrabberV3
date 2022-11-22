@@ -97,9 +97,9 @@ def IpS():
 				for xxx in Shine:
 					Repshin = xxx.replace('http://bitverzo.com/ip/', '')
 					print('[+]' + Fore.GREEN + Repshin + Fore.WHITE)
-					open('Rootinabox_IPs.txt', 'a').write(Repshin+'\n')
+					open('Cyberdeth_IPs.txt', 'a').write(Repshin+'\n')
 				else:
-					print(Fore.RED + 'Coded By Rootinabox' + Fore.WHITE)
+					print(Fore.RED + 'Coded By Cyberdeth' + Fore.WHITE)
 	except:
 		pass
 
