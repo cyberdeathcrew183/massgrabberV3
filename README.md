@@ -31,7 +31,7 @@ git clone https://github.com/cyberdeathcrew183/scanner
 cd your folder
 pip install colorama
 pip install requests
-python privategrabberV3.py
+python massgrabberV3.py
 ```
 **Windows**
 ```
