@@ -27,7 +27,7 @@ If you want to manually install the required packages using your preferrec packa
 **Linux**
 ```bash
 apt install git python2-pip
-git clone 
+git clone https://github.com/cyberdeathcrew183/scanner
 cd your folder
 pip install colorama
 pip install requests
